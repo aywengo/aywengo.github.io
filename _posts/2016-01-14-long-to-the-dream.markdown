@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to my personal blog!"
+title:  "Long way to the dream."
 date:   2016-01-14 16:55:23
 categories: [personal]
 tags: [blog, life]
